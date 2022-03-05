@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Startup Landing Page 💻
 ### Startup Landing Page 💻
 ### [Live Site](https://cc-beats-headphones.netlify.app)
@@ -10,4 +9,3 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![](/preview.png)
-=======
