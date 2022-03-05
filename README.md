@@ -1,6 +1,5 @@
 # Startup Landing Page 💻
 ### Startup Landing Page 💻
-### [Live Site](https://cc-beats-headphones.netlify.app)
 
 - Beautiful Startup landing page using Nextjs, themeUI, ReactIcons.
 - Light interface.
